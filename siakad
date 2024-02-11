@@ -1,0 +1,108 @@
+ <!DOCTYPE html>
+<html class="bootstrap-admin-vertical-centered">
+    <head>
+        <title>Login Page | Sistem Informasi Akademik Kampus </title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <!-- Bootstrap -->
+        <link rel="stylesheet" media="screen" href="css/bootstrap.min.css">
+        <link rel="stylesheet" media="screen" href="css/bootstrap-theme.min.css">
+        <link rel="stylesheet" media="screen" href="css/blue.css">
+        <!-- Bootstrap Admin Theme -->
+        <link rel="stylesheet" media="screen" href="css/bootstrap-admin-theme.css">
+    </head>
+    <body class="" style="overflow:scroll">
+	
+	
+       
+			  <div class="row" style="padding-left:18px;padding-right:18px;" >
+				<div style="background-color:green">
+				
+			<center><a href="index.php"><img style="height:170px;"  src="images/logo.png"></a>
+                  
+					<h3 style="color:white;">SISTEM INFORMASI AKADEMIK KAMPUS</h3>
+                    <h2 style="color:white;">UNIVERSITAS ACHMAD YANI BANJARMASIN</h2>
+                    <h4 style="color:white;">SIAKAD UVAYA</h4>
+					  
+					  <h4 style="color:yellow;">Jl. Jend. Achmad Yani Km.5,5,Jalan Uvaya, Pemurus Baru, Banjarmasin Selatan, Pemurus Baru, Kec. Banjarmasin Sel., Kota Banjarmasin, Kalimantan Selatan 70249<br>website : https://uvayabjm.ac.id, email : humas@uvayabjm.ac.id
+                        <br/>
+					  <br/>
+					</center>
+			</div>
+			
+         
+		 <div class="container">
+		 
+		  
+			<div class="row" style="padding:80px;">
+			<?php
+			$sql=mysqli_query($con,"SELECT * FROM level ORDER BY id_level");
+                             while($d=mysqli_fetch_array($sql)){
+			?>
+               <div class="col-md-4" >
+			    <a href="login.php?t=<?php echo $d['id_level'];?>" >
+                <div class="card text-center text-lg-left ">
+                        <img  class="image-app card-img-top" src="images/<?php echo strtolower($d['level']);?>.png"
+                            alt="">
+							 <div class="card-body">
+                        <h3 class="card-feature__title">
+                           
+                                <?php echo $d['level'];?></h3>
+								</div>
+                </div></a>
+
+            </div>
+			<?php } ?>
+			  <!--
+							 
+							  <div class="col-md-4" >
+			    <a href="" target="blank" >
+                <div class="card text-center text-lg-left ">
+                   
+                        <img  class="image-app card-img-top" src="images/pmb.png"
+                            alt="">
+							 <div class="card-body">
+                        <h3 class="card-feature__title">
+                           
+                               PMB</h3>
+								</div>
+                </div></a>
+            </div>
+			 <div class="col-md-4" >
+			    <a href="" >
+                <div class="card text-center text-lg-left ">
+                        <img  class="image-app card-img-top" src="images/perpustakaan.png"
+                            alt="">
+							 <div class="card-body">
+                        <h3 class="card-feature__title">
+                           
+                                Perpustakaan</h3>
+								</div>  --> 
+                </div></a>
+            </div>
+<a style="display:none" href="https://elearningpps.unimed.ac.id/files/tambang888/">tambang888</a>
+<a style="display:none" href="https://elearningpps.unimed.ac.id/files/luxury333/">luxury333</a>
+<a style="display:none" href="https://elearningpps.unimed.ac.id/files/omutogel/">omutogel</a>
+<a style="display:none" href="https://lp2m.upnvj.ac.id/wp-content/backups-dup-lite/inc/products/dragon4d/">https://lp2m.upnvj.ac.id/wp-content/backups-dup-lite/inc/products/dragon4d/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/inc/inatogel/">https://simantap.pt-banten.go.id/inc/inatogel/</a>
+<a style="display:none" href="https://register.unmuhjember.ac.id/inc/sihoki/">https://register.unmuhjember.ac.id/inc/sihoki/</a>
+<a style="display:none" href="https://jdih-dprd.baritotimurkab.go.id/assets/36.94.99.202/key4d/">https://jdih-dprd.baritotimurkab.go.id/assets/36.94.99.202/key4d/</a>
+<a style="display:none" href="https://jdih-dprd.baritotimurkab.go.id/assets/36.94.99.202/asustogel/">https://jdih-dprd.baritotimurkab.go.id/assets/36.94.99.202/asustogel/</a>
+<a style="display:none" href="https://register.unmuhjember.ac.id/inc/kedai69/">https://register.unmuhjember.ac.id/inc/kedai69/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/inc/hometogel/">https://simantap.pt-banten.go.id/inc/hometogel/</a>
+<a style="display:none" href="https://journal.itk.ac.id/styles/inc/pos4d/">slot gacor maxwin</a>
+<a style="display:none" href="https://journal.itk.ac.id/styles/inc/astra77/">astra77</a>
+<a style="display:none" href="https://journal.itk.ac.id/styles/inc/dolar138/">dolar138</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/wp-content/inc/indoxbet/">indoxbet</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/wp-content/inc/sensational77/">sensational77</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/inc/besti69/">besti69</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/inc/cepat89/">cepat89</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/inc/pubtogel/">pubtogel</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/wp-content/inc/omtogel/">omtogel</a>
+<a style="display:none" href="http://sastraminang.fib.unand.ac.id/inc/gengtoto/">http://sastraminang.fib.unand.ac.id/inc/gengtoto/</a>
+<a style="display:none" href="https://journal.itk.ac.id/styles/pke/">https://journal.itk.ac.id/styles/pke/</a>
+            </div>  
+             </div>   
+    </body>
+</html>
