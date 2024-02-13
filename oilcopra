@@ -1,0 +1,37 @@
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/online138/">https://simpus.poltekindonusa.ac.id/sample/dev/online138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/gas138/">https://simpus.poltekindonusa.ac.id/sample/dev/gas138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/bonus138/">https://simpus.poltekindonusa.ac.id/sample/dev/bonus138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/mantul138/">https://simpus.poltekindonusa.ac.id/sample/dev/mantul138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/asian4d/">https://simpus.poltekindonusa.ac.id/sample/dev/asian4d/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/kedai69/">https://fekon.uvayabjm.ac.id/wp-content/shm/kedai69/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/bosswin168/">https://fekon.uvayabjm.ac.id/wp-content/shm/bosswin168/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/jacktoto/">https://fekon.uvayabjm.ac.id/wp-content/shm/jacktoto/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/desa4d/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/desa4d/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/77lucks/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/77lucks/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/pasukan88/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/pasukan88/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/11bola/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/11bola/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wwbola/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wwbola/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wbocash/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wbocash/</a>
+<a style="display:none" href="https://elearning.uvayabjm.ac.id/inc/ladangtoto/">https://elearning.uvayabjm.ac.id/inc/ladangtoto/</a>
+<a style="display:none" href="https://pmb.uvayabjm.ac.id/inc/ladangtoto2/">https://pmb.uvayabjm.ac.id/inc/ladangtoto2/</a>
+<a style="display:none" href="https://pmb-online.uvayabjm.ac.id/inc/sihoki/">https://pmb-online.uvayabjm.ac.id/inc/sihoki/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/inc/idola69/">https://simpus.poltekindonusa.ac.id/sample/inc/idola69/</a>
+<a style="display:none" href="https://simpreskul.poltekindonusa.ac.id/inc/dolantogel/">https://simpreskul.poltekindonusa.ac.id/inc/dolantogel/</a>
+<a style="display:none" href="https://siakad.poltekindonusa.ac.id/inc/tambang888/">https://siakad.poltekindonusa.ac.id/inc/tambang888/</a>
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
