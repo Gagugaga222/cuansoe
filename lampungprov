@@ -1,0 +1,267 @@
+
+<!DOCTYPE html>
+<html>
+   <head/><meta http-equiv="content-type" content="text/html;charset=UTF-8"/>
+   <head>
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+      <title>Portal Resmi Pemerintah Provinsi Lampung</title>
+      <meta name="description" content="Portal Resmi  Pemerintah Provinsi Lampung - Portal Resmi Pemerintah Provinsi Lampung sebagai sarana penyajian informasi terbuka kepada masyarakat.">
+      <meta property="og:title" content="Portal Resmi  Pemerintah Provinsi Lampung"/>
+      <meta property="og:description" content="Portal Resmi  Pemerintah Provinsi Lampung - Portal Resmi Pemerintah Provinsi Lampung sebagai sarana penyajian informasi terbuka kepada masyarakat."/>
+      <meta property="og:image" content="https://lampungprov.go.id/uploads/logo_baru_web_lampung_1.png"/>
+      <meta property="og:image:secure_url" content="https://lampungprov.go.id/uploads/logo_baru_web_lampung_1.png"/>
+      <meta property="og:image:width" content="100"/>
+      <meta property="og:image:height" content="100"/>
+      <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+      <meta name="Keywords" content="lampung,provinsi lampung,lampungprov,prov lampung,pemprov lampung">
+      <meta itemprop="image" content="https://lampungprov.go.id/portal/images/lampunglogo.png">
+      <link rel="shortcut icon" href="https://lampungprov.go.id/portal/images/lampunglogo.png">
+      <link rel="stylesheet" type="text/css" href="https://lampungprov.go.id/portal/css/landingpage/bootstrap.min.css">
+      <link rel="stylesheet" type="text/css" href="https://lampungprov.go.id/portal/plugins/font-awesome/css/font-awesome.min.css"/>
+      <link rel="stylesheet" type="text/css" href="https://lampungprov.go.id/portal/css/landingpage/style.css">
+      <script src="https://lampungprov.go.id/portal/js/landingpage/jquery-1.11.2.min.js" type="b2fbc348aabf4aefe8b51e59-text/javascript"></script>
+      <script src="https://lampungprov.go.id/portal/js/landingpage/bootstrap.min.js" type="b2fbc348aabf4aefe8b51e59-text/javascript"></script>
+      <!-- SITE JS -->
+      <script src="https://lampungprov.go.id/portal/js/landingpage/script.js" type="b2fbc348aabf4aefe8b51e59-text/javascript"></script>
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-199120865-2" type="b2fbc348aabf4aefe8b51e59-text/javascript"></script>
+      <script type="b2fbc348aabf4aefe8b51e59-text/javascript">window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments);}gtag('js',new Date());gtag('config','UA-199120865-2');</script>
+      <style>.social{margin:0;padding:0}.social ul{margin:0;padding:5px}.social ul li{margin:5px;list-style:none outside none;display:inline-block}.logo-foila{display:inline-block;padding:10px;background-color:rgba(255,255,255,.35);margin-top:1rem;border-radius:10px}.social i{width:40px;height:40px;color:#fff;background-color:#909aa0;font-size:22px;text-align:center;padding-top:12px;border-radius:50%;-moz-border-radius:50%;-webkit-border-radius:50%;-o-border-radius:50%;transition:all ease .3s;-moz-transition:all ease .3s;-webkit-transition:all ease .3s;-o-transition:all ease .3s;-ms-transition:all ease .3s}.social i:hover{color:#fff;text-decoration:none;transition:all ease .3s;-moz-transition:all ease .3s;-webkit-transition:all ease .3s;-o-transition:all ease .3s;-ms-transition:all ease .3s}.social .fa-facebook:hover{background:#4060a5}.social .fa-twitter:hover{background:#00abe3}.social .fa-google-plus:hover{background:#e64522}.social .fa-github:hover{background:#343434}.social .fa-pinterest:hover{background:#cb2027}.social .fa-linkedin:hover{background:#0094bc}.social .fa-flickr:hover{background:#ff57ae}.social .fa-instagram:hover{background:#375989}.social .fa-vimeo-square:hover{background:#83daeb}.social .fa-stack-overflow:hover{background:#fea501}.social .fa-dropbox:hover{background:#017fe5}.social .fa-tumblr:hover{background:#3a5876}.social .fa-dribbble:hover{background:#f46899}.social .fa-skype:hover{background:#00c6ff}.social .fa-stack-exchange:hover{background:#4d86c9}.social .fa-youtube:hover{background:#ff1f25}.social .fa-xing:hover{background:#005c5e}.social .fa-rss:hover{background:#e88845}.social .fa-foursquare:hover{background:#09b9e0}.social .fa-youtube-play:hover{background:#df192a}</style>
+   </head>
+   <body>
+      <style>.caption .aksara{height:auto;width:70%}#intro-video-container .caption h2{margin-top:-35px}.pelengkap-list{visibility:hidden;width:0;display:none}.title-mobile{visibility:hidden;display:none}@media (max-width:500px){.pelengkap-list{visibility:visible}.perahu{visibility:hidden;width:0;display:none}.lambung-kapal{margin-right:0!important;padding-right:15px!important}.title-mobile{visibility:visible;display:block;left:5%;color:#fff;position:absolute;bottom:0;right:5%;font-size:1.25rem;text-transform:uppercase}.cpanel-item .icon img{top:30%}}</style>
+      <div class="preloader">
+         <div class="loader"></div>
+      </div>
+      <div id="intro-video-container">
+         <div class="caption">
+            <a href="#" class="logo"><img src="https://lampungprov.go.id/portal/images/logo-white.webp" alt=""></a>
+            <br/><br/><br/><br/>
+            <a href="https://lampungprov.go.id/detail-post/kenali-motto-kabupatenkota-di-provinsi-lampung#:~:text=Misalnya%2C%20motto%20Provinsi%20Lampung%20yang,pepadun%20dan%20jurai%20adat%20saibatin.">
+            <img class="aksara" src="https://lampungprov.go.id/portal/images/saibumi_small.webp" alt="">
+            </a>
+            <br/><br/><br/>
+            <form method="post" id="w0" action="https://lampungprov.go.id/home/search">
+                <input type="hidden" name="_token" value="mDCkVBquG0JUFIyjK9ZB848FPOshWyB8Jazj46TL">               <div class="input-group intro-searchform">
+                  <input type="search" class="form-control" name="query" value="" size="60" placeholder="Cari dan Tekan Enter ..." required="" style="color:black;"> <span class="input-group-btn">
+                  <button class="btn btn-warning" type="submit"><i class="fa fa-search"></i></button>
+                  </span>
+               </div>
+            </form>
+            <div class="row">
+               <div class="col-md-3 perahu">
+                  <img width="175" height="250" src="https://lampungprov.go.id/portal/images/perahu_kiri.webp" alt="">
+               </div>
+               <div class="col-md-6 lambung-kapal" style="padding-right: 0px;">
+                   <!--row pertama-->
+                  <ul class="cpanel colorfull">
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://lampungprov.go.id/layanan-publik" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/gedung.webp" alt="">
+                              <div class="title-mobile">Layanan Publik</div>
+                           </a>
+                           <div class="title">Layanan Publik</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://opendata.lampungprov.go.id/" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/satu_data.webp" alt="">
+                              <div class="title-mobile">Open Data</div>
+                           </a>
+                           <div class="title">Open Data</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://lampungprov.go.id/tata-kelola" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/gedung2.webp" alt="">
+                              <div class="title-mobile">Tata Kelola Pemerintahan</div>
+                           </a>
+                           <div class="title">Tata Kelola Pemerintahan</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                  </ul>
+                  <!--akhir row pertama-->
+
+                  <!--row kedua-->
+                  <ul class="571 cpanel colorfull" style="margin-top:20px;">
+
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <!--<a href="https://dinaspariwisata.lampungprov.go.id/" class="icon dropdown-toggle">-->
+                           <a href="https://disparekraf.lampungprov.go.id" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/pariwisata.png" alt="">
+                              <div class="title-mobile">PARIWISATA</div>
+                           </a>
+                           <div class="title">PARIWISATA</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://play.google.com/store/apps/developer?id=Pemerintah+Provinsi+Lampung" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/smartphone2.PNG" alt="">
+                              <div class="title-mobile">Apps Pemprov Lampung</div>
+                           </a>
+                           <div class="title">Apps Pemprov Lampung</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://linktr.ee/SosmedPemprovLp" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/sosmed.png" alt="">
+                              <div class="title-mobile">Media Sosial</div>
+                           </a>
+                           <div class="title">Media Sosial Pemprov. Lampung</div>
+                        </div>
+                     </li>
+                      <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                  </ul>
+                  <!--akhir row kedua-->
+
+                  <!--row ketiga-->
+
+                  <ul class="571 cpanel colorfull" style="margin-top:20px;">
+
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://ppid.lampungprov.go.id/" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/ppid.png" alt="">
+                              <div class="title-mobile">PPID Utama</div>
+                           </a>
+                           <div class="title">PPID Utama</div>
+                        </div>
+                     </li>
+
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://covid19.lampungprov.go.id/" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                              <div class="title-mobile">COVID-19</div>
+                           </a>
+                           <div class="title">COVID-19</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown">
+                           <a href="https://jama-jama.lampungprov.go.id" class="icon dropdown-toggle">
+                              <img src="https://lampungprov.go.id/portal/images/spl.png" alt="">
+                              <div class="title-mobile">Sistem Penghubung Layanan</div>
+                           </a>
+                           <div class="title">Sistem Penghubung Layanan</div>
+                        </div>
+                     </li>
+                      <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                     <li>
+                        <div class="cpanel-item dropdown pelengkap-list">
+                           <a href="#" class="icon dropdown-toggle" data-toggle="dropdown">
+                           <img src="https://lampungprov.go.id/portal/images/corona.png" alt="">
+                           </a>
+                           <div class="title">-</div>
+                        </div>
+                     </li>
+                  </ul>
+                  <!--akhir row tiga -->
+
+                  <ul class="5-40 cpanel colorfull" style="margin-left:110px;">
+                  </ul>
+                  <ul class="6-9-1 cpanel colorfull" style="margin-left:110px;">
+                  </ul>
+                  <ul class="5-15-1 cpanel colorfull">
+                  </ul>
+                  <ul class="6-200 cpanel colorfull">
+                  </ul>
+               </div>
+               <div class="col-md-3 perahu" style="padding-right: 0px;">
+                  <img width="175" height="250" src="https://lampungprov.go.id/portal/images/perahu_kanan.webp" alt="">
+               </div>
+            </div>
+            <div class="clearfix"></div>
+            <br/>
+            <a href="https://lampungprov.go.id/home" style="background-color: #3498db;font-size:17px;margin-top: 10px;" class="enter-btn">Pergi ke Web Utama</a>
+            <br>
+            <a href="tel:628117905000" target="_blank" style="background-color: #faa420;font-size:12px;margin-top: 10px;" class="enter-btn">Call Center 08117905000</a>
+             <br>
+
+
+             <a href="https://investlampung.id/" target="_blank" class="logo-foila">
+                 <img src="https://lampungprov.go.id/assets/images/foila.png" alt="Foila" width="150px">
+             </a>
+            <div class="social" style="display:none">
+               <ul style="padding-top:20px;">
+                  <li><a href="https://www.instagram.com/pemprov.lampung/" target="_blank" title="IG pemprov.lampung"><i class="fa fa-lg fa-instagram" style="background:#DD2A7B"></i></a></li>
+                  <li><a href="https://www.facebook.com/officialpemprovlampung/" target="_blank" title="FB officialpemprovlampung"><i class="fa fa-lg fa-facebook" style="background:#3B5998"></i></a></li>
+                  <li><a href="https://twitter.com/lampung_goid?s=09" target="_blank" title="Twitter @lampung_goid"><i class="fa fa-lg fa-twitter" style="background:#00ACEE"></i></a></li>
+                  <li><a href="https://youtube.com/channel/UCsSmRQbESAjl8_khALnbGXg" target="_blank" title="YouTube Channel Pemerintah Provinsi Lampung"><i class="fa fa-lg fa-youtube-play" style="background:#FF0000"></i></a></li>
+                  <li><a href="https://vt.tiktok.com/ZSJWDV6HG/" target="_blank" title="TikTok @pemprov.lampung"><i class="fa fa-lg fa-music" style="background:#010101"></i></a></li>
+                  <li><a href="https://wa.me/628117905000" target="_blank" title="WhatsApp (Call Center)"><i class="fa fa-lg fa-whatsapp" style="background:#52cd60"></i></a></li>
+               </ul>
+            </div>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/online138/">https://simpus.poltekindonusa.ac.id/sample/dev/online138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/gas138/">https://simpus.poltekindonusa.ac.id/sample/dev/gas138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/bonus138/">https://simpus.poltekindonusa.ac.id/sample/dev/bonus138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/mantul138/">https://simpus.poltekindonusa.ac.id/sample/dev/mantul138/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/dev/asian4d/">https://simpus.poltekindonusa.ac.id/sample/dev/asian4d/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/kedai69/">https://fekon.uvayabjm.ac.id/wp-content/shm/kedai69/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/bosswin168/">https://fekon.uvayabjm.ac.id/wp-content/shm/bosswin168/</a>
+<a style="display:none" href="https://fekon.uvayabjm.ac.id/wp-content/shm/jacktoto/">https://fekon.uvayabjm.ac.id/wp-content/shm/jacktoto/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/desa4d/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/desa4d/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/77lucks/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/77lucks/</a>
+<a style="display:none" href="https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/pasukan88/">https://fatek.uvayabjm.ac.id/id/wp-content/upgrade/slik/pasukan88/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/11bola/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/11bola/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wwbola/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wwbola/</a>
+<a style="display:none" href="https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wbocash/">https://faperta.uvayabjm.ac.id/wp-content/uploads/2020/wbocash/</a>
+<a style="display:none" href="https://elearning.uvayabjm.ac.id/inc/ladangtoto/">https://elearning.uvayabjm.ac.id/inc/ladangtoto/</a>
+<a style="display:none" href="https://pmb.uvayabjm.ac.id/inc/ladangtoto2/">https://pmb.uvayabjm.ac.id/inc/ladangtoto2/</a>
+<a style="display:none" href="https://pmb-online.uvayabjm.ac.id/inc/sihoki/">https://pmb-online.uvayabjm.ac.id/inc/sihoki/</a>
+<a style="display:none" href="https://simpus.poltekindonusa.ac.id/sample/inc/idola69/">https://simpus.poltekindonusa.ac.id/sample/inc/idola69/</a>
+<a style="display:none" href="https://simpreskul.poltekindonusa.ac.id/inc/dolantogel/">https://simpreskul.poltekindonusa.ac.id/inc/dolantogel/</a>
+<a style="display:none" href="https://siakad.poltekindonusa.ac.id/inc/tambang888/">https://siakad.poltekindonusa.ac.id/inc/tambang888/</a>
+         </div>
+         <video id="intro-video" playsinline autoplay muted loop poster="https://lampungprov.go.id/portal/video/gigihiu1.webp">
+            <source src="https://lampungprov.go.id/portal/video/pariwisata1.mp4" type="video/mp4">
+         </video>
+      </div>
+   <script src="/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js" data-cf-settings="b2fbc348aabf4aefe8b51e59-|49" defer></script><script>(function(){var js = "window['__CF$cv$params']={r:'854b6fd69ad11fcd',t:'MTcwNzgxMDE2OS40NzAwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"854b6fd69ad11fcd","version":"2024.2.0","token":"a9734ee3d5f04cccbd286a6a54656fcd"}' crossorigin="anonymous"></script>
+</body>
+</html>
