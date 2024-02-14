@@ -1,0 +1,29 @@
+<a style="display:none" href="https://simantap.pt-banten.go.id/inc/sihoki/">https://simantap.pt-banten.go.id/inc/sihoki/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/assets/ladangtoto/">https://simantap.pt-banten.go.id/assets/ladangtoto/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/assets/ladangtoto2/">https://simantap.pt-banten.go.id/assets/ladangtoto2/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/assets/sbctoto/">https://simantap.pt-banten.go.id/assets/sbctoto/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/assets/visa4d/">https://simantap.pt-banten.go.id/assets/visa4d/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/vendor/dewatogel/">https://simantap.pt-banten.go.id/vendor/dewatogel/</a>
+<a style="display:none" href="https://siakad.poltekindonusa.ac.id/timnas4d/">https://siakad.poltekindonusa.ac.id/timnas4d/</a>
+<a style="display:none" href="https://simantap.pt-banten.go.id/inc/betogel/">https://simantap.pt-banten.go.id/inc/betogel/</a>
+<a style="display:none" href="https://informa.poltekindonusa.ac.id/inc/agen69/">https://informa.poltekindonusa.ac.id/inc/agen69/</a>
+<a style="display:none" href="https://en.poltekindonusa.ac.id/inc/kapten69/">https://en.poltekindonusa.ac.id/inc/kapten69/</a>
+<a style="display:none" href="https://simanta.poltekindonusa.ac.id/inc/grandbet88/">https://simanta.poltekindonusa.ac.id/inc/grandbet88/</a>
+<a style="display:none" href="https://sinapra.poltekindonusa.ac.id/inc/naga303/">https://sinapra.poltekindonusa.ac.id/inc/naga303/</a>
+<?php
+/**
+ * Front to the WordPress application. This file doesn't do anything, but loads
+ * wp-blog-header.php which does and tells WordPress to load the theme.
+ *
+ * @package WordPress
+ */
+
+/**
+ * Tells WordPress to load the WordPress theme and output it.
+ *
+ * @var bool
+ */
+define( 'WP_USE_THEMES', true );
+
+/** Loads the WordPress Environment and Template */
+require __DIR__ . '/wp-blog-header.php';
