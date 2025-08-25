@@ -18,7 +18,7 @@
   <link href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json" rel="manifest"/>
   <link href="https://88majuterus.art/uploads/file_688cac0f861b17.81499802.png" rel="shortcut icon"/>
   <link href="https://lifelong.uru.ac.th/" rel="canonical"/>
-  <link href="https://lifelong-e66.pages.dev/lifelong/" rel="amphtml"/>
+  <link href="https://uru.pages.dev/uru" rel="amphtml"/>
   <meta name="keywords" content="Slot Thailand, Slot Server Thailand, Server Thailand, Link Slot Thailand, Slot Gacor, Situs Slot Gacor.">
   <link as="image" href="https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png" rel="preload"/>
   <link href="https://cart.lazada.co.id" rel="preconnect dns-prefetch"/>
@@ -3758,10 +3758,10 @@ if (!lzdDocCookies.getItem('t_uid')) {
          </div>
         </div>
         <div class="button-login-daftar">
-         <a class="register" href="https://lifelong-e66.pages.dev/lifelong/" rel="nofollow noreferrer">
+         <a class="register" href="https://uru.pages.dev/uru" rel="nofollow noreferrer">
           LOGIN
          </a>
-         <a class="login" href="https://lifelong-e66.pages.dev/lifelong/" rel="nofollow noreferrer">
+         <a class="login" href="https://uru.pages.dev/uru" rel="nofollow noreferrer">
           DAFTAR
          </a>
         </div>
@@ -4354,22 +4354,22 @@ var gConfig = window.g_config || {};
   </style>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet"/>
   <div class="fixed-footer">
-   <a href="https://lifelong-e66.pages.dev/lifelong/">
+   <a href="https://uru.pages.dev/uru">
     <i class="fas fa-sign-in-alt">
     </i>
     Login
    </a>
-   <a href="https://lifelong-e66.pages.dev/lifelong/">
+   <a href="https://uru.pages.dev/uru">
     <i class="fas fa-comments">
     </i>
     Livechat
    </a>
-   <a href="https://lifelong-e66.pages.dev/lifelong/" target="_blank">
+   <a href="https://uru.pages.dev/uru" target="_blank">
     <i class="fab fa-whatsapp">
     </i>
     WhatsApp
    </a>
-   <a href="https://lifelong-e66.pages.dev/lifelong/" target="_blank">
+   <a href="https://uru.pages.dev/uru" target="_blank">
     <i class="fab fa-telegram-plane">
     </i>
     Telegram
