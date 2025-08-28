@@ -3,24 +3,24 @@
 <html xmlns:wormhole="http://www.w3.org/1999/xhtml" lang="id-ID">
 <head>
   <meta charset="utf-8" />
-  <title>SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !</title>
-  <meta name="description" content="Dalam lanskap game slot gacor yang terus berkembang, SLOT THAILAND hadir sebagai platform yang mengklaim diri sebagai Pilihan situs Terbaik, Terutama melalui slot gacor server thailand." />
+  <title>SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru</title>
+  <meta name="description" content="SLOT THAILAND merupakan link slot gacor terbaru yang menyediakan fitur slot gampang maxwin serta sebagai situs slot gacor hari ini terbaik paling gampang menang." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
   <meta name="aplus-auto-exp" content='[{"filter":"exp-tracking=suggest-official-store","logkey":"/lzdse.result.os_impr","props":["href"],"tag":"a"}]' />
   <meta name="data-spm" content="a2o4j" />
   <meta name="robots" content="index, follow" />
   <meta name="revisit-after" content="1 days">
   <meta name="revisit" content="1"/>
-  <meta name="og:url" content="https://fikes.umc.ac.id/fasilitas/" />
-  <meta name="og:title" content="SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !" />
+  <meta name="og:url" content="https://alatsurveymakassar.com/" />
+  <meta name="og:title" content="SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru" />
   <meta name="og:type" content="product" />
-  <meta name="og:description" content="Dalam lanskap game slot gacor yang terus berkembang, SLOT THAILAND hadir sebagai platform yang mengklaim diri sebagai Pilihan situs Terbaik, Terutama melalui slot gacor server thailand." />
+  <meta name="og:description" content="SLOT THAILAND merupakan link slot gacor terbaru yang menyediakan fitur slot gampang maxwin serta sebagai situs slot gacor hari ini terbaik paling gampang menang." />
   <meta name="og:image" content="https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png" />
   <link rel="manifest" href="https://g.lazcdn.com/g/lzdfe/pwa-assets/5.0.7/manifest/id.json">
   <link rel="shortcut icon" href="https://88majuterus.art/uploads/file_688cac0f861b17.81499802.png" />
-  <link rel="canonical" href="https://fikes.umc.ac.id/fasilitas/" />
-  <link rel="amphtml" href="https://fikes-1vr.pages.dev/fikes" />
-  <meta name="keywords" content="Slot Thailand, Slot Server Thailand, Server Thailand, Link Slot Thailand, Slot Gacor, Link Slot Gacor.">
+  <link rel="canonical" href="https://alatsurveymakassar.com/" />
+  <link rel="amphtml" href="https://survey-1gg.pages.dev/survey" />
+  <meta name="keywords" content="Slot Thailand, Slot Server Thailand, Server Thailand, Link Slot Thailand, Slot Gacor, Situs Slot Gacor.">
   <!-- start preload -->
   <link rel="preload" href="https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png" as="image" />
   <link rel="preconnect dns-prefetch" href="//cart.lazada.co.id" />
@@ -149,7 +149,7 @@
       start: Date.now(),
     };
     var dataLayer = window.dataLayer || [];
-    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png","v_voya":1,"brand_name":"SLOT THAILAND","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
+    var pdpTrackingData ="{"pdt_category":["Televisi & Video"],"pagetype":"pdp","pdt_discount":"","pdt_photo":"https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png","v_voya":1,"brand_name":"SLOT THAILAND","brand_id":"842","pdt_sku":9978447445,"core":{"country":"ID","layoutType":"desktop","language":"in","currencyCode":"IDR"},"seller_name":"","pdt_simplesku":2255234788,"pdt_name":"SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru","page":{"regCategoryId":"002147001474","xParams":"_p_typ=pdp&_p_ispdp=1&_p_item=9978447445_ID-2255234788&_p_prod=9978447445&_p_sku=2255234788&_p_slr="},"supplier_id":"","pdt_price":"Rp2.699.000"}";
     try {
       pdpTrackingData = JSON.parse(pdpTrackingData);
       pdpTrackingData.v_voya = false;
@@ -667,7 +667,7 @@
 </div>
 
   <script type="application/ld+json">
-    {"@type":"Product","@context":"https://schema.org","name":"SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !","image":"https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png","category":"Game & Video","brand":{"@type":"Brand","name":"SLOT THAILAND","url":"https://fikes.umc.ac.id/fasilitas/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"Dalam lanskap game slot gacor yang terus berkembang, SLOT THAILAND hadir sebagai platform yang mengklaim diri sebagai Pilihan situs Terbaik, Terutama melalui slot gacor server thailand.","url":"https://fikes.umc.ac.id/fasilitas/","offers":{"@type":"Offer","url":"https://fikes.umc.ac.id/fasilitas/","seller":{"@type":"Organization","name":"SLOT THAILAND"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
+    {"@type":"Product","@context":"https://schema.org","name":"SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru","image":"https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png","category":"Game & Video","brand":{"@type":"Brand","name":"SLOT THAILAND","url":"https://alatsurveymakassar.com/"},"sku":"9978447445_ID-2255234788","mpn":9978447445,"description":"SLOT THAILAND merupakan link slot gacor terbaru yang menyediakan fitur slot gampang maxwin serta sebagai situs slot gacor hari ini terbaik paling gampang menang.","url":"https://alatsurveymakassar.com/","offers":{"@type":"Offer","url":"https://alatsurveymakassar.com/","seller":{"@type":"Organization","name":"SLOT THAILAND"},"priceCurrency":"IDR","price":0,"availability":"https://schema.org/InStock","itemCondition":"https://schema.org/NewCondition"}}
   </script>
   <script type="application/ld+json" data-rh="true">
       {
@@ -677,36 +677,36 @@
           "@type": "ListItem",
           "position": 1,
           "item": {
-            "@id": "https://fikes.umc.ac.id/fasilitas/",
+            "@id": "https://alatsurveymakassar.com/",
             "name": "SLOT"
           }
         }, {
           "@type": "ListItem",
           "position": 2,
           "item": {
-            "@id": "https://fikes.umc.ac.id/fasilitas/",
+            "@id": "https://alatsurveymakassar.com/",
             "name": "LINK SLOT"
           }
         }, {
           "@type": "ListItem",
           "position": 3,
           "item": {
-            "@id": "https://fikes.umc.ac.id/fasilitas/",
+            "@id": "https://alatsurveymakassar.com/",
             "name": "SLOT GACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 4,
           "item": {
-            "@id": "https://fikes.umc.ac.id/fasilitas/",
+            "@id": "https://alatsurveymakassar.com/",
             "name": "SITUS SLOT GACOR"
           }
         }, {
           "@type": "ListItem",
           "position": 5,
           "item": {
-            "@id": "https://fikes.umc.ac.id/fasilitas/",
-            "name": "SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !"
+            "@id": "https://alatsurveymakassar.com/",
+            "name": "SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru"
           }
         }]
       }
@@ -803,7 +803,7 @@
       <div class="lzd-header-content">
         <div class="lzd-logo-bar">
           <div class="logo-bar-content header-content">
-              <div class="lzd-logo-content"><a href="https://fikes.umc.ac.id/fasilitas/" data-spm="dhome"><img src="https://88majuterus.art/uploads/file_688caf5dbb60a5.32592769.png" alt="SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !" style="width: min-content;"></a></div>
+              <div class="lzd-logo-content"><a href="https://alatsurveymakassar.com/" data-spm="dhome"><img src="https://88majuterus.art/uploads/file_688caf5dbb60a5.32592769.png" alt="SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru" style="width: min-content;"></a></div>
               <div class="lzd-nav-search " data-spm="search">
                 <div id="button" data-spm-click="gostr=/lzdpub.header.search;locaid=d_go"></div>
               </div>
@@ -812,7 +812,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://fikes.umc.ac.id/fasilitas/">
+            <a href="https://alatsurveymakassar.com/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -1862,7 +1862,7 @@
 <div class="lzd-site-nav-menu lzd-site-nav-menu-active" data-mod-name="@ali/lzdmod-site-menu-nav-pc/pc/index" data-config="{}">
     <div class="lzd-site-menu-nav-container">
         <div class="lzd-site-menu-nav-category">
-            <a href="https://fikes.umc.ac.id/fasilitas/">
+            <a href="https://alatsurveymakassar.com/">
                 <span class="lzd-site-menu-nav-category-text">Kategori</span>
             </a>
             <div class="lzd-site-menu-nav-menu">
@@ -3023,7 +3023,7 @@ if (!lzdDocCookies.getItem('t_uid')) {
       .breadcrumb_list {
         width: 1188px;
         height: 48px;
-        border-bottom: 1px solid #EFF0F5;
+        border-bottom: 1px solid #ba8a1c;
         margin: 0 auto;
         overflow: hidden;
         text-overflow: ellipsis;
@@ -3103,15 +3103,15 @@ if (!lzdDocCookies.getItem('t_uid')) {
       <ul class="breadcrumb" id="J_breadcrumb">
     <li class="breadcrumb_item">
     <span class="breadcrumb_item_text">
-    <a title="SLOT THAILAND" href="https://fikes.umc.ac.id/fasilitas/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>SLOT THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <a title="SLOT THAILAND" href="https://alatsurveymakassar.com/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.1"><span>SLOT THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="SLOT SERVER THAILAND" href="https://fikes.umc.ac.id/fasilitas/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>SLOT SERVER THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="SLOT SERVER THAILAND" href="https://alatsurveymakassar.com/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.2"><span>SLOT SERVER THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="SERVER THAILAND" href="https://fikes.umc.ac.id/fasilitas/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>SERVER THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="SERVER THAILAND" href="https://alatsurveymakassar.com/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.3"><span>SERVER THAILAND</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item">
-    <span class="breadcrumb_item_text"><a title="SLOT GACOR" href="https://fikes.umc.ac.id/fasilitas/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">SLOT GACOR</span></a><div class="breadcrumb_right_arrow"></div></span></li>
+    <span class="breadcrumb_item_text"><a title="SLOT GACOR" href="https://alatsurveymakassar.com/" class="breadcrumb_item_anchor" data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.4"><span data-spm-anchor-id="a2o4j.pdp_revamp.breadcrumb.i0.72711c72BNY9K6">SLOT GACOR</span></a><div class="breadcrumb_right_arrow"></div></span></li>
     <li class="breadcrumb_item"><span class="breadcrumb_item_text">
-    <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !</span></span></li></ul>
+    <span class="breadcrumb_item_anchor breadcrumb_item_anchor_last">SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru</span></span></li></ul>
     </div>
     <script type="e4587ea736eb1659062f36b5-text/javascript">
       function htmlEncodePdp(input) {
@@ -3191,22 +3191,22 @@ if (!lzdDocCookies.getItem('t_uid')) {
   }
  </style>
 <div class="n-columns-2" style="font-size: 20px;">
-<a href="https://fikes-1vr.pages.dev/fikes" rel="nofollow noreferrer" class="login">DAFTAR</a>
-<a href="https://fikes-1vr.pages.dev/fikes" rel="nofollow noreferrer" class="register">MASUK</a>
+<a href="https://survey-1gg.pages.dev/survey" rel="nofollow noreferrer" class="login">DAFTAR</a>
+<a href="https://survey-1gg.pages.dev/survey" rel="nofollow noreferrer" class="register">MASUK</a>
  </div>
  
   <div id="container" style="visibility: visible;">
-    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !" src="https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png"/></div></div>
-
-  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT THAILAND : Link Slot Gacor Terbaru Server Thailand Dijamin Maxwin !</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://fikes.umc.ac.id/fasilitas/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">SLOT THAILAND</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
-  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://fikes.umc.ac.id/fasilitas/">SLOT SERVER THAILAND</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
+    <div id="root" class="pdp-block" data-reactroot=""><div id="module_core" class="pdp-block module"><p></p></div><div id="block-r3bZB9J63C" class="pdp-block pdp-block_group_buy_tip"><div id="module_group_buy_tip" class="pdp-block module"></div></div><div id="block-9uUVSSMxTb" class="pdp-block pdp-block__main-information"><div id="block-W59OjAyxSy" class="pdp-block pdp-block__gallery"><div id="module_item_gallery_1" class="pdp-block module"><div class="item-gallery" data-spm="gallery"><div class="gallery-preview-panel"><div class="gallery-preview-panel__content"><img class="pdp-mod-common-image gallery-preview-panel__image" alt="SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru" src="https://88majuterus.art/uploads/file_688cafc1165e26.49315435.png"/></div></div>
+  <a href="https://survey-1gg.pages.dev/survey" rel="nofollow noopener" target="_blank"><img src="https://88majuterus.art/uploads/daftarhit.gif" width="100%" height="auto" alt="daftar slot"></a>
+  </div></div></div><div id="block-n8THsmEaVS" class="pdp-block pdp-block__main-information-detail"><div id="block-6QhDn4z1db" class="pdp-block"><div id="block-ssuYrXSucaM" class="pdp-block pdp-block__product-detail"><div id="module_flash_sale" class="pdp-block module"></div><div id="module_crazy_deal" class="pdp-block module"></div><div id="module_redmart_top_promo_banner" class="pdp-block module"></div><div id="module_product_title_1" class="pdp-block module"><div class="pdp-product-title"><div class="pdp-mod-product-badge-wrapper"><h1 class="pdp-mod-product-badge-title">SLOT THAILAND : Situs Slot Thailand Hari Ini Bersama Link Slot Gacor Terbaru</h1></div></div></div><div id="module_pre-order-tag" class="pdp-block module"></div><div id="block-C7wdxsrWYA0" class="pdp-block pdp-block__rating-questions-summary"><div id="block-qkzkCPtx4vZ" class="pdp-block pdp-block__rating-questions"><div id="module_product_review_star_1" class="pdp-block module"><div class="pdp-review-summary"><div class="container-star pdp-review-summary__stars pdp-stars_size_s"><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/><img class="star" src="https://i.gyazo.com/7b17449b7b047a1f1a859a29ec996e97.png"/></div><a href="https://alatsurveymakassar.com/" class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-review-summary__link" data-spm-anchor-id="a2o4j.pdp_revamp.0.0">SLOT THAILAND</a></div></div></div><div id="block-ztlO6gvyRIv" class="pdp-block pdp-block__share"><div id="block--PRjoF98du4" class="pdp-block" style="display:inline-block;width:24px;height:54px"><div id="module_product_share_1" class="pdp-block module"></div></div><div id="block-7fC8S_Z8DDj" class="pdp-block" style="display:inline-block"><div id="module_product_wishlist_1" class="pdp-block module"><p></p></div></div></div></div><div id="module_product_brand_1" class="pdp-block module">
+  <div class="pdp-product-brand"><span class="pdp-product-brand__name">MEREK<!-- -->:<!-- --> </span><a class="pdp-link pdp-link_size_s pdp-link_theme_blue pdp-product-brand__brand-link" target="_self" href="https://alatsurveymakassar.com/">SITUS SLOT GACOR</a></div></div><div id="module_product_attrs" class="pdp-block module"></div><div id="block-cKVxLtoIbl2" class="pdp-block module"></div><div id="module_product_price_1" class="pdp-block module"><div class="pdp-mod-product-price">
     <footer class="footer-container container"> 
          <div class="row site-description-container">
-            <p style="text-align: justify;">Dalam lanskap game slot gacor yang terus berkembang, SLOT THAILAND hadir sebagai platform yang mengklaim diri sebagai Pilihan situs Terbaik, Terutama melalui slot gacor server thailand.</p></div>
+            <p style="text-align: justify;">SLOT THAILAND merupakan link slot gacor terbaru yang menyediakan fitur slot gampang maxwin serta sebagai situs slot gacor hari ini terbaik paling gampang menang.</p></div>
     </div>
 
 
-    <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">IDR 10.000,-</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">IDR 100.000-</span><span class="pdp-product-price__discount">Disc 90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://fikes-1vr.pages.dev/fikes"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">DAFTAR</span></button></a><a href="https://fikes-1vr.pages.dev/fikes" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">MASUK</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;9978447445&quot;,&quot;skuId&quot;:&quot;2255234788&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title"> </div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
+    <div class="pdp-product-price" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_normal pdp-price_color_orange pdp-price_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdUG5ius">IDR 10.000,-</span><div class="origin-block" bis_skin_checked="1"><span class="notranslate pdp-price pdp-price_type_deleted pdp-price_color_lightgray pdp-price_size_xs">IDR 100.000-</span><span class="pdp-product-price__discount">Disc 90%</span></div></div></div></div><div id="module_redmart_product_price" class="pdp-block module"></div><div id="module_promotion_tags" class="pdp-block module"></div><div id="module_installment" class="pdp-block module"></div><div id="module_quantity-input" class="pdp-block module"><div class="pdp-mod-product-info-section sku-quantity-selection" bis_skin_checked="1"><h6 class="section-title">Kuantitas</h6><div class="section-content" bis_skin_checked="1"><div class="next-number-picker next-number-picker-inline" bis_skin_checked="1"><div class="next-number-picker-handler-wrap" bis_skin_checked="1"><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-up "><span unselectable="unselectable" class="next-number-picker-handler-up-inner"><i class="next-icon next-icon-add next-icon-medium"></i></span></a><a unselectable="unselectable" class="next-number-picker-handler next-number-picker-handler-down next-number-picker-handler-down-disabled"><span unselectable="unselectable" class="next-number-picker-handler-down-inner"><i class="next-icon next-icon-minus next-icon-medium"></i></span></a></div><div class="next-number-picker-input-wrap" bis_skin_checked="1"><span class="next-input next-input-single next-input-medium next-number-picker-input"><input min="1" max="5" step="1" autocomplete="off" type="text" height="100%" value="1"></span></div></div><span class="quantity-content-default"></span></div></div></div><div id="module_sms-phone-input" class="pdp-block module"></div><div id="module_add_to_cart" class="pdp-block module" bis_skin_checked="1"><div class="pdp-cart-concern" bis_skin_checked="1"><a href="https://survey-1gg.pages.dev/survey"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_yellow pdp-button_size_xl" data-spm-anchor-id="a2o4j.pdp_revamp.0.i0.241073bdeHYO5j"><span class="pdp-button-text">DAFTAR</span></button></a><a href="https://survey-1gg.pages.dev/survey" target="_blank"><button class="add-to-cart-buy-now-btn  pdp-button pdp-button_type_text pdp-button_theme_orange pdp-button_size_xl"><span class="pdp-button-text"><span class="">MASUK</span></span></button></a><form method="post" action=""><input name="buyParams" type="hidden" value="{&quot;items&quot;:[{&quot;itemId&quot;:&quot;9978447445&quot;,&quot;skuId&quot;:&quot;2255234788&quot;,&quot;quantity&quot;:1,&quot;attributes&quot;:null}]}"></form></div></div><div id="module_redmart_add_to_cart" class="pdp-block module"></div></div><div id="block-O-HF3LN4YVI" class="pdp-block pdp-block__delivery-seller"><div id="module_seller_delivery" class="pdp-block module"><div data-spm="delivery_options" data-nosnippet="true"></div></div><div id="module_redmart_delivery" class="pdp-block module"></div><div id="module_seller_warranty" class="pdp-block module"></div><div id="module_guide_app" class="pdp-block module"></div><div id="module_redmart_service" class="pdp-block module"></div><div id="module_seller_info" class="pdp-block module"><div class="seller-container" data-spm="seller"><div class="seller-name"><div class="seller-name__wrapper"><div class="seller-name__title"> </div><div class="seller-name__detail" data-spm="seller"><a class="pdp-link pdp-link_size_l pdp-link_theme_black seller-name__detail-name"></a></div></div></div><div class="pdp-seller-info-pc"></div></div></div><div id="module_redmart_seller_info" class="pdp-block module"></div></div></div></div></div></div>
   </div>
   
   <script type="e4587ea736eb1659062f36b5-text/javascript">
@@ -3826,5 +3826,5 @@ window.onload = function() {
     });
   }
   </script>
-<script>(function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'9733046d0e762c14',t:'MTc1NTg3MjQ5My4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();</script></body>
+</body>
 </html>
