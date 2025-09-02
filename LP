@@ -2244,4 +2244,3 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 </body>
 </html>
 
-
